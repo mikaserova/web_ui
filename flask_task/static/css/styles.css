@@ -1,0 +1,18 @@
+.sett_form{
+    justify-content: center;
+    background-color: rgba(126, 180, 176,0.5);
+    margin:  3%;
+    padding: 3%;
+    height: 300px;
+    border-radius: 10px;
+    width: 40%;
+
+}
+.can{
+    justify-content: center;
+}
+.one_bank{
+    justify-content: center;
+    
+    padding: 5%;
+}
